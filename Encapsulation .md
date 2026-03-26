@@ -38,6 +38,8 @@ rect.print_values()
 ```
 
 ## Output
+
 <img width="949" height="208" alt="image" src="https://github.com/user-attachments/assets/3dc1a327-cd64-4465-8c40-8621d2225283" />
 
 ## Result
+Thus the program was successfully executed and obtained the result.
